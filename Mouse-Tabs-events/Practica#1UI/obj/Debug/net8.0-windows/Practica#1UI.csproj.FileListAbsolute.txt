@@ -1,0 +1,17 @@
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\bin\Debug\net8.0-windows\Practica#1UI.exe
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\bin\Debug\net8.0-windows\Practica#1UI.deps.json
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\bin\Debug\net8.0-windows\Practica#1UI.runtimeconfig.json
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\bin\Debug\net8.0-windows\Practica#1UI.dll
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\bin\Debug\net8.0-windows\Practica#1UI.pdb
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica_1UI.Form1.resources
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica#1UI.csproj.GenerateResource.cache
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica#1UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica#1UI.AssemblyInfoInputs.cache
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica#1UI.AssemblyInfo.cs
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica#1UI.csproj.CoreCompileInputs.cache
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica#1UI.dll
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\refint\Practica#1UI.dll
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica#1UI.pdb
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica#1UI.genruntimeconfig.cache
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\ref\Practica#1UI.dll
+C:\Users\Zack\source\repos\Practica#1App\Practica#1UI\obj\Debug\net8.0-windows\Practica_1UI.rastreoMouse.resources
