@@ -1,0 +1,17 @@
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\bin\Debug\net8.0-windows\practica2-POO-UI.exe
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\bin\Debug\net8.0-windows\practica2-POO-UI.deps.json
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\bin\Debug\net8.0-windows\practica2-POO-UI.runtimeconfig.json
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\bin\Debug\net8.0-windows\practica2-POO-UI.dll
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\bin\Debug\net8.0-windows\practica2-POO-UI.pdb
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2_POO_UI.Encapsulamiento.Modelo.EncapsulamientoForm.resources
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2-POO-UI.csproj.GenerateResource.cache
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2-POO-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2-POO-UI.AssemblyInfoInputs.cache
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2-POO-UI.AssemblyInfo.cs
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2-POO-UI.csproj.CoreCompileInputs.cache
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2-POO-UI.dll
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\refint\practica2-POO-UI.dll
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2-POO-UI.pdb
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2-POO-UI.genruntimeconfig.cache
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\ref\practica2-POO-UI.dll
+C:\Users\Zack\source\repos\practica2-POO-App\practica2-POO-UI\obj\Debug\net8.0-windows\practica2_POO_UI.Polimorfism.Modelo.PolimorfismForm1.resources
