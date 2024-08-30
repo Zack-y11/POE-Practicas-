@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zack\\source\\repos\\practica2-POO-App\\practica2-POO-UI\\practica2-POO-UI.csproj",
+      "projectUniqueName": "C:\\Users\\Zack\\source\\repos\\1-Todas las practicas\\POE-Practicas-\\practica2-POO-App\\practica2-POO-UI\\practica2-POO-UI.csproj",
       "projectName": "practica2-POO-UI",
-      "projectPath": "C:\\Users\\Zack\\source\\repos\\practica2-POO-App\\practica2-POO-UI\\practica2-POO-UI.csproj",
+      "projectPath": "C:\\Users\\Zack\\source\\repos\\1-Todas las practicas\\POE-Practicas-\\practica2-POO-App\\practica2-POO-UI\\practica2-POO-UI.csproj",
       "packagesPath": "C:\\Users\\Zack\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zack\\source\\repos\\practica2-POO-App\\practica2-POO-UI\\obj\\",
+      "outputPath": "C:\\Users\\Zack\\source\\repos\\1-Todas las practicas\\POE-Practicas-\\practica2-POO-App\\practica2-POO-UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zack\\AppData\\Roaming\\NuGet\\NuGet.Config",

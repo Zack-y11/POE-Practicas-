@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practica2-POO-UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ff5da51d26d3132d18be487421bb1d273f607af")]
 [assembly: System.Reflection.AssemblyProductAttribute("practica2-POO-UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practica2-POO-UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
